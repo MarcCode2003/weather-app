@@ -1,8 +1,8 @@
-# Weather App
+# Weather Website
 
 ## Description
 
-A simple weather application that provides current weather information for a specified location. This project is a part of my learning journey in web development and API integration.
+A simple weather website that provides current weather information for a specified location. This project is a part of my learning journey in web development and API integration.
 
 ## Features
 
